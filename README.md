@@ -21,13 +21,6 @@ git clone https://github.com/KhaledAbdurahman/Flutter_Builder-Frontend-.git
 cd Flutter_Builder-Frontend
 ```
 
-- **Clone the repository** (run from the project root):
-
-```powershell
-git clone https://github.com/KhaledAbdurahman/Flutter_Builder-Frontend-.git
-cd Flutter_Builder-Frontend
-```
-
 The Vite dev server serves the app from the `client` folder (configured in `vite.config.ts`) and enables HMR.
 
 **Build & Run Production**
