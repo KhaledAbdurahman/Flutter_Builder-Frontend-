@@ -21,10 +21,11 @@ cd 'e:\The-Final-Project\Front-End'
 pnpm install
 ```
 
-- **Run development server (Vite)**:
+- **Clone the repository** (run from the project root):
 
 ```powershell
-pnpm dev
+git clone https://github.com/KhaledAbdurahman/Flutter_Builder-Frontend-.git
+cd Flutter_Builder-Frontend
 ```
 
 The Vite dev server serves the app from the `client` folder (configured in `vite.config.ts`) and enables HMR.
