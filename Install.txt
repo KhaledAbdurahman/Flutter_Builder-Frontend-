@@ -1,0 +1,5 @@
+To get started: 
+	- Download the project.
+	- run npm install -g pnpm
+	- then pnpm install
+	- finally pnpm dev
