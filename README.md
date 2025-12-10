@@ -14,11 +14,11 @@ pnpm -v
 node -v
 ```
 
-- **Install dependencies** (run from the project root):
+- **Clone the repository** (run from the project root):
 
 ```powershell
-cd 'e:\The-Final-Project\Front-End'
-pnpm install
+git clone https://github.com/KhaledAbdurahman/Flutter_Builder-Frontend-.git
+cd Flutter_Builder-Frontend
 ```
 
 - **Clone the repository** (run from the project root):
